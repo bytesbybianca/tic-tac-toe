@@ -10,7 +10,7 @@ A 2–player tic-tac-toe game with win and draw validation
 
 **Tech used:** HTML, CSS, and JavaScript
 
-[@20jasper](https://github.com/20jasper), [@alexisintech](https://github.com/alexisintech), [@Ethodeus](https://github.com/Ethodeus), [@LucasMERN](https://github.com/LucasMERN), [@brendondsouza](https://github.com/brendondsouza), [@TonyHerbert22ATX](https://github.com/TonyHerbert22ATX) and [I](https://github.com/bytesbybianca) collaborated to build this project. We split into two groups—one group built the win and draw condition validation algorithms while the other styled the site and added support for user input.
+[@20jasper](https://github.com/20jasper), [@alexisintech](https://github.com/alexisintech), [@Ethodeus](https://github.com/Ethodeus), [@LucasMERN](https://github.com/LucasMERN), [@brendondsouza](https://github.com/brendondsouza), [@TonyHerbert22ATX](https://github.com/TonyHerbert22ATX) and [@bytesbybianca](https://github.com/bytesbybianca) collaborated to build this project. We split into two groups—one group built the win and draw condition validation algorithms while the other styled the site and added support for user input.
 
 ## Lessons Learned:
 
